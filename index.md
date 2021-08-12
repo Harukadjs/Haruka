@@ -1,4 +1,4 @@
-## install
+## How to install Haruka
 
 This is a multi purpose bot with many features including fun, moderation, anime, and many more commands.
 
