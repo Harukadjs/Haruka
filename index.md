@@ -10,6 +10,8 @@ This is a multi purpose bot with many features including fun, moderation, anime,
 
 ## How to install Haruka
 
+You can install Haruka for free! I would appreciate crediting me when using my bot!
+
 ### Windows
 
 1. go to the [Haruka!](https://github.com/LuminaXI/kyouu-chan).
@@ -23,7 +25,7 @@ TOKEN = TOKEN_HERE
 PREFIX = !!
 ```
 7. type `nodemon` or `node .` to run your bot!
-8. 
+
 ### Linux
 
 1. go to the [Haruka!](https://github.com/LuminaXI/kyouu-chan).
