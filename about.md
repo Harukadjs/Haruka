@@ -9,8 +9,10 @@ This is a multi purpose bot with many features including fun, moderation, anime,
 ## who made Haruka! 
 
 ʟᴜɴᴀʀ (その月)#0001 made haruka, lunar is a discord bot dev known as [LuminaXI](https://github.com/luminaxi) on github. 
-[x] Lumina's website: [luminanet](https://www.luminanet.tk).
-[x] Lunar's website: [itslunar](https://itslunar.tk)
+
+- Lumina's website: [luminanet](https://www.luminanet.tk).
+
+- Lunar's website: [itslunar](https://itslunar.tk)
 
 ## why did we make Haruka!
 
